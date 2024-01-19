@@ -16,7 +16,7 @@
 ![enter image description here](https://i.imgur.com/T6yGGqC.png)
 
 ### Успешное создание Realm
-![enter image description here](https://i.imgur.com/z6yw8ic.png)
+![enter image description here]([https://i.imgur.com/z6yw8ic.png](https://i.imgur.com/z6yw8ic.png))
 
 ### Создание двух пользователей: `ilya` и `user1`
 ![enter image description here](https://i.imgur.com/aaIlO8G.png)

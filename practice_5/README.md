@@ -15,14 +15,13 @@
 
 
 ![enter image description here](https://i.imgur.com/W0AgqEp.png)
-![](https://i.imgur.com/auDzOgm.png)
+![enter image description here](https://i.imgur.com/kjOubGQ.png)
 ### 5. Настроить утилиты gostsum, afick
 #### gostsum
-![](https://i.imgur.com/PHUILJD.png)
-![](https://i.imgur.com/iyQmzZW.png)
+![enter image description here](https://i.imgur.com/h7cYRll.png)
+![enter image description here](https://i.imgur.com/kcs81Tl.png)
 #### afick
-![](https://i.imgur.com/buiIPjM.png)
-![](https://i.imgur.com/vkIvXgG.png)
-![](https://i.imgur.com/7bF1WjX.png)
-![](https://i.imgur.com/rIL8JVM.png)
-
+![enter image description here](https://i.imgur.com/giBjZGd.png)
+![enter image description here](https://i.imgur.com/X93dQr4.png)
+![enter image description here](https://i.imgur.com/wxoTxO0.png)
+![enter image description here](https://i.imgur.com/rFDpeBp.png)

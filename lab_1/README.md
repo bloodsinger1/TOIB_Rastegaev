@@ -7,16 +7,16 @@
 
 ### Установка Keycloak с помощью Docker
 
-![enter image description here](https://i.imgur.com/UGoImM2.png)
+![enter image description here](https://i.imgur.com/DE4dyl0.png)
 
 ### Вход в Keycloak
-![enter image description here](https://i.imgur.com/07PJuZJ.png)
+![enter image description here](https://i.imgur.com/hZShjTn.png)
 
 ### Создание собственного Realm
-![enter image description here](https://i.imgur.com/T6yGGqC.png)
+![enter image description here](https://i.imgur.com/HQtQbEC.png)
 
 ### Успешное создание Realm
-![enter image description here]([https://i.imgur.com/z6yw8ic.png](https://i.imgur.com/z6yw8ic.png))
+![enter image description here](https://i.imgur.com/2AO5k0m.png)
 
 ### Создание двух пользователей: `ilya` и `user1`
 ![enter image description here](https://i.imgur.com/aaIlO8G.png)
